@@ -4,6 +4,7 @@
 <div>
   개인 블로그
   <p>https://clear-clouds.tistory.com</p>
+  <p>https://velog.io/@minsoo1430</p>
 </div>
 
 
